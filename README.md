@@ -53,4 +53,6 @@ Whether you’re a vendor seeking fair fees in a robust Canadian market, or a bu
 [![img](/frames/label.webp)](http://hh2paw7ouhfjozylujs3qp4rql7xc76ce63ffzvtlpicjqgeiqxp4oad.onion)
 
 
-Update:  18 September 2025 Fixed broken url, now accessible and live
+
+
+Update:  01 October link is live
